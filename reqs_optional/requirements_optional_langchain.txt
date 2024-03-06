@@ -45,3 +45,5 @@ pip-licenses==4.3.0
 
 # weaviate vector db
 weaviate-client==3.22.1
+setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
+wheel>=0.38.0 # not directly required, pinned by Snyk to avoid a vulnerability
