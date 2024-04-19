@@ -45,3 +45,5 @@ pip-licenses==4.3.0
 
 # weaviate vector db
 weaviate-client==3.22.1
+aiohttp>=3.9.4 # not directly required, pinned by Snyk to avoid a vulnerability
+torch>=2.2.0 # not directly required, pinned by Snyk to avoid a vulnerability
