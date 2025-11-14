@@ -27,7 +27,7 @@ unstructured[local-inference]==0.9.0
 pillow==9.5.0
 posthog==3.0.1
 
-pdfminer.six==20221105
+pdfminer.six==20251107
 urllib3
 requests_file
 
